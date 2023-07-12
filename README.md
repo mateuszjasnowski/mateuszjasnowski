@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mateusz
 
 - 👨‍💻 I'm **Python Developer** @ Capgemini Poland
-- 🔭 I’m currently up skilling with **Azure Data Engenier certifications**
+- 🔭 I’m currently working on project for client in **Databricks**
 - 📫 How to reach me **mateusz.jasnowski.99@gmail.com**
 
 ## Connect with me:
